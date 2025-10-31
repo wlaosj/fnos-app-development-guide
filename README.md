@@ -1135,7 +1135,7 @@ chown -R your-app-user:your-app-group /var/apps/your-app/var
 
 ## 版本历史
 
-- v1.0 (2024-10-31): 初始版本，基于官方应用包分析
+- v1.0 (2025-10-31): 初始版本，基于官方应用包分析
 
 ---
 
